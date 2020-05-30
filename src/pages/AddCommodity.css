@@ -1,0 +1,10 @@
+.commodity {
+    width: 100%;
+}
+.commodity-avatar-uploader > .ant-upload {
+    width: 200px;
+    height: 200px;
+  }
+.commodity-title {
+    margin: 50px 0;
+}

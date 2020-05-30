@@ -1,0 +1,22 @@
+.commodity {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.commodity-title {
+    margin: 50px 0;
+}
+.commodity-content {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.commodity-item {
+    width: 240px;
+    margin-top: 30px;
+}
+.commodity-pagination {
+    margin-top: 50px;
+}
