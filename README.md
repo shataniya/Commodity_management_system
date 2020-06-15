@@ -1,5 +1,13 @@
 # 商品管理系统
 具备增删改查以及商品展示功能的商品管理系统
+# 安装所有的包
+```javascript
+// 首先要安装package.json里的所有依赖包
+// npm
+npm install
+// yarn 
+yarn install
+```
 # 1.配置.babelrc文件
 ```javascript
 // .babelrc
